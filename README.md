@@ -1,5 +1,10 @@
 # InkPoint Studio — Live Site Slice
 
+## Live demo
+
+https://upwork-demo-w650-ai-created-site-de.vercel.app
+
+
 A deployable Next.js slice of a tattoo studio site. It builds the three pages that carry the risk — gallery, booking, FAQ — as production-shaped App Router code, and adds the thing a static design can't do: the booking form returns an **AI-generated consultation brief**, so the studio reads a structured request instead of a raw message.
 
 ## What this demonstrates
